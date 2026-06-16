@@ -1,1 +1,21 @@
+## Sample Visualizations
 
+### Ride Frequency by Day of the Week
+
+![Ride Frequency by Day](visualizations/ride_frequency_by_day.png)
+
+### Distribution of Rideable Bike Types
+
+![Bike Type Distribution](visualizations/bike_type_distribution.png)
+
+### Monthly Ride Trends
+
+![Monthly Ride Trends](visualizations/monthly_ride_trends.png)
+
+### Distribution of Ride Duration
+
+![Ride Duration Distribution](visualizations/ride_duration_distribution.png)
+
+### Member vs Casual Riders
+
+![Member vs Casual Riders](visualizations/member_vs_casual_riders.png)
