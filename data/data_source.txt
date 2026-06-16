@@ -1,0 +1,19 @@
+Original dataset obtained from Divvy Bike Share:
+
+https://divvy-tripdata.s3.amazonaws.com/index.html
+
+Files used:
+
+* 202011-divvy-tripdata.csv
+* 202012-divvy-tripdata.csv
+* 202101-divvy-tripdata.csv
+* 202102-divvy-tripdata.csv
+* 202103-divvy-tripdata.csv
+* 202104-divvy-tripdata.csv
+* 202105-divvy-tripdata.csv
+* 202106-divvy-tripdata.csv
+* 202107-divvy-tripdata.csv
+* 202108-divvy-tripdata.csv
+* 202109-divvy-tripdata.csv
+* 202110-divvy-tripdata.csv
+* 202111-divvy-tripdata.csv
